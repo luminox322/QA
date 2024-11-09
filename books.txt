@@ -1,0 +1,64 @@
+Author: John Smith
+Discipline: Mathematics
+Specialty: Algebra
+Pages: 150
+File Size: 500
+Format: PDF
+Registration Number: 45
+
+Author: Mary Johnson
+Discipline: Science
+Specialty: Chemistry
+Pages: 200
+File Size: 800
+Format: DOCX
+Registration Number: 12
+
+Author: David Williams
+Discipline: History
+Specialty: World History
+Pages: 180
+File Size: 600
+Format: TXT
+Registration Number: 78
+
+Author: Sarah Davis
+Discipline: Literature
+Specialty: American Literature
+Pages: 250
+File Size: 700
+Format: EPUB
+Registration Number: 33
+
+Author: Michael Brown
+Discipline: Computer Science
+Specialty: Programming
+Pages: 300
+File Size: 1000
+Format: HTML
+Registration Number: 56
+
+Author: Jennifer Lee
+Discipline: Art
+Specialty: Painting
+Pages: 120
+File Size: 400
+Format: JPG
+Registration Number: 23
+
+Author: Robert Taylor
+Discipline: Business
+Specialty: Marketing
+Pages: 220
+File Size: 900
+Format: PDF
+Registration Number: 67
+
+Author: Sarah Johnson
+Discipline: History
+Specialty: World History
+Pages: 245
+File Size: 680
+Format: DOC
+Registration Number: 49
+
